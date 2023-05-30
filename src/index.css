@@ -57,3 +57,47 @@ section {
 section:nth-child(even) {
     background-color: var(--color-white);
 }
+
+section > h2 {
+    text-align: center;
+}
+
+section > p {
+    text-align: center;
+    margin: 0.5rem auto 4rem;
+    width: 40%;
+}
+
+a {
+    color: var(--color-white); 
+    transition: var(--transition);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1;
+    color: var(--color-black);
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+
+h5 { 
+    font-size: 0.95rem;
+}
+
+h6 {
+    font-size: 0.8rem;
+}
