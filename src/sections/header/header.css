@@ -1,0 +1,35 @@
+header {
+    margin-top: 5rem;
+    height: calc(100vh - 5rem);
+    display: grid;
+    place-items: center;
+    background: var(--color-white);
+    transition: var(--transition);
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.header-profile img {
+    width: 18rem;
+    height: 22rem;
+    border-radius: 9rem 9rem 2rem 2rem;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+.header-container p {
+    width: 35rem;
+    text-align: center;
+    margin: 0.6rem 0 2rem;
+}
+
+.header-cta {
+    display: flex; 
+    align-items: center;
+    gap: 1.2rem
+}
