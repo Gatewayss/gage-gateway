@@ -14,8 +14,8 @@ const Header = () => {
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum vero, dolore quos dicta, ea at odit aliquam iste iusto explicabo ducimus, vel voluptatum repudiandae nobis. Fugiat doloribus vel assumenda? Cupiditate!
         </p>
         <div className="header-cta">
-          <a href='#contact'>Let's Talk</a>
-          <a href='#portfolio'>My Work</a>
+          <a href='#contact' className='btn primary'>Let's Talk</a>
+          <a href='#portfolio' className='btn light'>My Work</a>
         </div>
         <div className="header-socials">
           {
