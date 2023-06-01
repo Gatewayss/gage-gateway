@@ -54,3 +54,28 @@
 .about-right .btn {
     margin-top: 2.5rem;
 }
+
+@media screen and (max-width: 1450px) {
+    .about-left {
+        display: none; 
+    }
+
+    .about-container {
+        grid-template-columns: 1fr;
+    }
+
+    .about-right h2 {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .about-cards {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+    .about-right .btn {
+        margin-top: 2rem;
+    }
+}
