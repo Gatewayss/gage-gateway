@@ -58,3 +58,24 @@ header {
     color: var(--color-white);
     transform: translateX(-0.5rem);
 }
+
+/* tablets */
+@media screen and (max-width: 1024px) {
+    header {
+        margin-top: 0;
+        height: 100vh;
+    }
+}
+
+/* phones */
+@media screen and (max-width: 730px) {
+    .header-container p {
+        width: 100%;
+    }
+    .header-cta {
+        gap: 1rem;
+    }
+    .header-socials {
+        display: none;
+    }
+}
