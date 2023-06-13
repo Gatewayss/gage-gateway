@@ -1,8 +1,19 @@
+import contacts from './data'
 import './contact.css'
 
 const Contact = () => {
   return (
-    <section id="section"><h2>Contact</h2></section>
+    <section id="contact">
+      <h2>Get In Touch</h2>
+      <p>
+        Send me a message using any of the links below!
+      </p>
+      <div className="container contact__container" data-aos="fade-up">
+        {
+          contacts.map(contact => <a key={contact.id} href={contact.link} target="_blank" rel="noopener noreferrer">{contact.icon}</a>)
+        }
+      </div>
+    </section>
   )
 }
 
