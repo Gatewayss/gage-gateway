@@ -6,6 +6,7 @@ import Header from "./sections/header/Header"
 import Navbar from "./sections/navbar/Navbar"
 import Portfolio from "./sections/portfolio/Portfolio"
 import Skills from './sections/skills/Skills'
+import Theme from './theme/Theme'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Contact/>
         <Footer/>
         <FloatingNav/>
+        <Theme/>
     </main>
   )
 }
