@@ -23,10 +23,8 @@ nav {
     gap: 3.5rem;
 }
 
-.nav-logo {
-    overflow: hidden;
-    border-radius: 50%;
-    width: 2.5rem;
+.nav-home {
+    font-size: 1.8rem;
 }
 
 .nav-menu {
