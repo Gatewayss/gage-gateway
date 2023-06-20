@@ -12,7 +12,7 @@ const Header = () => {
         </div>
         <h3>Gage Norton</h3>
         <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum vero, dolore quos dicta, ea at odit aliquam iste iusto explicabo ducimus, vel voluptatum repudiandae nobis. Fugiat doloribus vel assumenda? Cupiditate!
+        As a recent Full-Stack web developer graduate, I excel at transforming ideas into results! With expertise in both front-end and back-end technologies, I create innovative solutions that bring ideas to life.
         </p>
         <div className="header-cta">
           <a href='#contact' className='btn primary'>Let's Talk</a>
