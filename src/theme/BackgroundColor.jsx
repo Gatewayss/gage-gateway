@@ -1,4 +1,5 @@
-import { useThemeContext } from '../context/theme-context';
+
+import { useThemeContext } from './../context/theme-context';
 
 const BackgroundColor = ({className}) => {
   const {themeHandler} = useThemeContext()
