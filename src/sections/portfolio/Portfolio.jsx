@@ -10,7 +10,7 @@ const Portfolio = () => {
     <section id="portfolio">
     <h2>Recent Projects</h2>
     <p>
-    Check out some of the projects I recently worked on during my education at this U of M fullstack bootcamp.
+    Check out some of the projects I recently finished during my education at this U of M fullstack bootcamp.
     </p>
     
       <Projects projects={projects}/>
