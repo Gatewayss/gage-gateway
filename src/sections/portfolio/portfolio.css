@@ -1,3 +1,10 @@
+.portfolio__categories {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
 .btn.cat__btn {
     text-transform: capitalize;
     transition: var(--transition);
@@ -10,15 +17,10 @@
 .portfolio__projects {
     margin-top: 3rem;
     display: grid;
-    grid-template-columns: repeat(2, 1fr); 
+    grid-template-columns: repeat(3, 1fr); 
     gap: 3rem;
     align-items: start;
-    
-}
-
-.portfolio__projects img {
-    height: 200px;
-    width: auto;
+    padding: 0 4em 0 4em;
 }
 
 .card.portfolio__project {
@@ -34,7 +36,7 @@
     }
 }
 
-.portfolio__project-image {
+.portfolio__project-image img {
     width: 100%;
     height: fit-content;
     min-height: 7rem;
@@ -43,6 +45,9 @@
     border-radius: var(--border-radius-2);
     margin-bottom: 1.5rem;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .portfolio__project p {
