@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gage-gateway/static/css/main.54b09791.css",
-    "main.js": "/gage-gateway/static/js/main.b937c5d3.js",
+    "main.css": "/gage-gateway/static/css/main.a37a5c72.css",
+    "main.js": "/gage-gateway/static/js/main.6df66473.js",
     "static/media/age-filter.gif": "/gage-gateway/static/media/age-filter.6395cffde2f2d2d663d6.gif",
     "static/media/Recipes for disaster.gif": "/gage-gateway/static/media/Recipes for disaster.b1d6e555932f6d27af20.gif",
-    "static/media/portrait.jpg": "/gage-gateway/static/media/portrait.aab4e6f86f0d108f6b92.jpg",
+    "static/media/profile-pic.png": "/gage-gateway/static/media/profile-pic.8bb6680627dd589bb24c.png",
     "static/media/challenge.png": "/gage-gateway/static/media/challenge.1588acc85bf2328f89e0.png",
     "static/media/Resume.pdf": "/gage-gateway/static/media/Resume.ab60e48d208f37e5f2c5.pdf",
     "index.html": "/gage-gateway/index.html",
-    "main.54b09791.css.map": "/gage-gateway/static/css/main.54b09791.css.map",
-    "main.b937c5d3.js.map": "/gage-gateway/static/js/main.b937c5d3.js.map"
+    "main.a37a5c72.css.map": "/gage-gateway/static/css/main.a37a5c72.css.map",
+    "main.6df66473.js.map": "/gage-gateway/static/js/main.6df66473.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b09791.css",
-    "static/js/main.b937c5d3.js"
+    "static/css/main.a37a5c72.css",
+    "static/js/main.6df66473.js"
   ]
 }
