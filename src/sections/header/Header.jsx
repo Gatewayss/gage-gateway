@@ -4,6 +4,7 @@ import HeaderImage from '../../assets/portrait.jpg'
 
 const Header = () => {
   return (
+    <section>
     <header id="header">
       <div className="container header-container">
         <div className="header-profile">
@@ -24,6 +25,7 @@ const Header = () => {
         </div>
       </div>
     </header>
+    </section>
   )
 }
 
