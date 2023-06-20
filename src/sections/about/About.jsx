@@ -1,5 +1,5 @@
 import './about.css'
-import AboutImg from '../../assets/portrait.jpg'
+import AboutImg from '../../assets/profile-pic.png'
 import {HiDownload} from 'react-icons/hi'
 import Resume from '../../assets/Resume.pdf'
 import Card from '../../components/Card'
