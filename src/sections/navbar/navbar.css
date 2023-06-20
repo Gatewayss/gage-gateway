@@ -29,6 +29,15 @@ nav {
     width: 2.5rem;
 }
 
+.nav-menu {
+    display: flex;
+    gap: 3.5rem;
+}
+
+.nav-menu a {
+    color: white;
+}
+
 #theme-icon {
     background: transparent;
     color: white;
