@@ -14,6 +14,11 @@ const Portfolio = () => {
     </p>
     
       <Projects projects={projects}/>
+
+    <p className='portfolio-link'>To see more of my work check out my projects on
+      <br/>
+      <a href="https://github.com/Gatewayss" target="_blank" rel="noreferrer">Github!</a>
+    </p>
   </section>
   )
 }

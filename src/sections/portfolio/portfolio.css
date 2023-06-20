@@ -23,6 +23,15 @@
     padding: 0 4em 0 4em;
 }
 
+.portfolio-link {
+    margin-top: 3rem;   
+}
+
+.portfolio-link a {
+    color: var(--color-primary);
+    font-size: 1.3rem;
+}
+
 .card.portfolio__project {
     animation: animateProject 800ms ease-in forwards;
 }
