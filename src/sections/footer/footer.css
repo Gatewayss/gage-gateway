@@ -30,9 +30,6 @@ footer .nav__menu {
     transform: translateY(-0.5rem);
 }
 
-.footer__copyright {
+.footer__links {
     color: white;
-    text-align: center;
-    border-top: 2px solid rgba(0, 0, 0, 0.2);
-    padding: 1.5rem 0;
 }

@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container footer__container">
         <ul className='nav__menu'>
           {
-            links.map(fLink => <li key={fLink.id}><a href={fLink.link}>{fLink.title}</a></li>)
+            links.map(fLink => <li key={fLink.id}><a href={fLink.link} className="footer__links">{fLink.title}</a></li>)
           }
         </ul>
         <div className="footer__socials">
