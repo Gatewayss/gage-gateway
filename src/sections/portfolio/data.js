@@ -15,7 +15,7 @@ const data = [
         id: 2,
         image: Image2,
         title: 'Retro-great',
-        desc: 'x',
+        desc: 'Experience the ultimate social media app, Retro Great, exclusively crafted for Gen Xers to recapture the essence of the past and connect with individuals who share their experiences.',
         demo: 'https://retro-great-v2.herokuapp.com/',
         github: 'https://github.com/Gatewayss/retro-great'
     }, 
