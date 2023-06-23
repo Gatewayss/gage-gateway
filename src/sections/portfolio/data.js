@@ -1,6 +1,6 @@
 import Image1 from '../../assets/challenge.png'
 import Image2 from '../../assets/age-filter.gif'
-import Image3 from '../../assets/Recipes for disaster.gif'
+import Image3 from '../../assets/myBlog.gif'
 
 const data = [ 
     {
@@ -22,10 +22,10 @@ const data = [
     {
         id: 3,
         image: Image3,
-        title: 'Test (test test test)',
-        desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
-        demo: 'https://paint-mixer.herokuapp.com/',
-        github: 'https://github.com/Gatewayss/mixer'
+        title: 'myBlog',
+        desc: 'MyBlog is a user-friendly blog posting and forum-style website. Explore captivating content, engage in interactive discussions, and unleash your creativity in one convenient platform.',
+        demo: 'https://blog-site-141.herokuapp.com/',
+        github: 'https://github.com/Gatewayss/14-blog-site'
     }
 ]
 
