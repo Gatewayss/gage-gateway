@@ -1,5 +1,5 @@
-import Image1 from '../../assets/challenge.png'
-import Image2 from '../../assets/age-filter.gif'
+import Image1 from '../../assets/Mixer.gif'
+import Image2 from '../../assets/Retro Great.gif'
 import Image3 from '../../assets/myBlog.gif'
 
 const data = [ 
@@ -14,8 +14,8 @@ const data = [
     {
         id: 2,
         image: Image2,
-        title: 'Retro-great (social media app for Gen X)',
-        desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
+        title: 'Retro-great',
+        desc: 'x',
         demo: 'https://retro-great-v2.herokuapp.com/',
         github: 'https://github.com/Gatewayss/retro-great'
     }, 
