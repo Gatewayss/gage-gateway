@@ -2,6 +2,8 @@
 
 This portfolio site was built using React but I am interested in both front and back technologies. Each of my projects is a full-stack application, demonstrating my proficiency across multiple layers of development. The site offers various features, including theme customization, about me section, contact information, and a collection of my projects. By combining my skills in both front-end and back-end development, I strive to deliver comprehensive and dynamic solutions.
 
+See it live [here](https://gatewayss.github.io/gage-gateway/)!
+
 ![portfolio demonstration](src/assets/Gage's%20portfolio.gif)
 ## Usage
 
