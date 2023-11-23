@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gage-gateway/static/css/main.a37a5c72.css",
-    "main.js": "/gage-gateway/static/js/main.f8ea9b04.js",
+    "main.css": "/gage-gateway/static/css/main.3a44b997.css",
+    "main.js": "/gage-gateway/static/js/main.a787e192.js",
     "static/media/Mixer.gif": "/gage-gateway/static/media/Mixer.399b4228d909eeaf5115.gif",
     "static/media/Retro Great.gif": "/gage-gateway/static/media/Retro Great.d291cd950e0809455cbb.gif",
     "static/media/myBlog.gif": "/gage-gateway/static/media/myBlog.4257fb3ffa2885ced849.gif",
-    "static/media/profile-pic.png": "/gage-gateway/static/media/profile-pic.8bb6680627dd589bb24c.png",
-    "static/media/Tech_Resume.pdf": "/gage-gateway/static/media/Tech_Resume.0d774f7318f97a017c5c.pdf",
+    "static/media/profile-pic.png": "/gage-gateway/static/media/profile-pic.1d30c2a81ada0211b57b.png",
+    "static/media/Tech_Resume.pdf": "/gage-gateway/static/media/Tech_Resume.405efc6659206058b701.pdf",
     "index.html": "/gage-gateway/index.html",
-    "main.a37a5c72.css.map": "/gage-gateway/static/css/main.a37a5c72.css.map",
-    "main.f8ea9b04.js.map": "/gage-gateway/static/js/main.f8ea9b04.js.map"
+    "main.3a44b997.css.map": "/gage-gateway/static/css/main.3a44b997.css.map",
+    "main.a787e192.js.map": "/gage-gateway/static/js/main.a787e192.js.map"
   },
   "entrypoints": [
-    "static/css/main.a37a5c72.css",
-    "static/js/main.f8ea9b04.js"
+    "static/css/main.3a44b997.css",
+    "static/js/main.a787e192.js"
   ]
 }
